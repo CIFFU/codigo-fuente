@@ -1,0 +1,878 @@
+
+body{
+	background-color: #f5f5f5;
+}
+
+
+.portada {
+	background-color: #003B5C;
+	margin-bottom: 15px;
+	padding: 15px 0;
+
+}
+
+.menu-portada{
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 10px;
+}
+
+.menu-portada li{
+	background-color: rgba(255,255,255,0.8);
+	margin: 3px 0;
+}
+
+.menu-portada li:first-child{
+	border-radius: 5px 5px 0 0;
+}
+
+.menu-portada li:last-child{
+	border-radius: 0 0 5px 5px;
+}
+
+.menu-portada a{
+
+}
+
+.menu-portada a:hover{
+	color: white;
+}
+
+/* Sweep To Top */
+.hvr-sweep-to-top {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.hvr-sweep-to-top:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #2098D1;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sweep-to-top:hover, .hvr-sweep-to-top:focus, .hvr-sweep-to-top:active {
+  color: white;
+}
+.hvr-sweep-to-top:hover:before, .hvr-sweep-to-top:focus:before, .hvr-sweep-to-top:active:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+}
+
+
+
+
+/*
+Barra de navegacion superior
+
+*/
+
+.logo a{
+	padding: 0;
+}
+.top-bar{
+	background-color: white;
+  color: #003B5C;
+	border-bottom: 1px solid #003B5C;
+	padding: 0;
+}
+
+.top-bar ul{
+	border: none;
+	color: #003B5C;
+	background-color: transparent;
+
+}
+
+.top-bar-right{
+
+	margin-top: 50px;
+
+}
+
+.top-bar-right ul{
+	border: none;
+	color: #003B5C;
+
+
+}
+
+ul.menu-superior{
+	background-color: transparent;
+	display: table-cell;
+	margin-top: 40px;
+
+}
+
+
+.hvr-underline-from-center {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  overflow: hidden;
+}
+.hvr-underline-from-center:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 50%;
+  right: 50%;
+  bottom: 0;
+  background: #2098D1;
+  height: 4px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
+  left: 0;
+  right: 0;
+}
+
+/* Overline From Center */
+.hvr-overline-from-center {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  overflow: hidden;
+}
+.hvr-overline-from-center:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 50%;
+  right: 50%;
+  top: 0;
+  background: #2098D1;
+  height: 4px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-overline-from-center:hover:before, .hvr-overline-from-center:focus:before, .hvr-overline-from-center:active:before {
+  left: 0;
+  right: 0;
+}
+
+/*imagenes del slider */
+
+.orbit-image{
+	width: 100%;
+	height: 356px;
+
+}
+
+.orbit{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*diseños auxiliares de un ancho del 100% de la pantalla */
+
+.banda{
+	background-color: rgba(0,59,92,.7);
+	color: white;
+}
+
+.banda p{
+	padding: 20px;
+}
+
+.imgbgbanda{
+	background-image: url(../assets/img/electronica.jpg);
+}
+
+.banner{
+	margin: 20px auto 0 auto;
+	padding: 50px 0 0 0;
+}
+
+.tituloseccion h3{
+	margin: 45px 0 0 15px;
+}
+
+.header-style{
+	color: #003B5C;
+}
+
+.boton-slider{
+	z-index: 2;
+}
+
+
+.ligas-de-interes-container{
+	display: block;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.liga-interes{
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.logo-liga-interes{
+	margin: auto;
+	padding: 25px 0px;
+	display: block;
+}
+/*Estilos de los botones */
+
+
+
+.button-hamburger{
+	margin: 0 10px 0 0;
+	background: white;
+	padding: 0;
+	transition: border 0.25s ease-out, color 0.25s ease-out;
+}
+
+.button-hamburger:hover{
+	border: 1px solid #a5a5a5 !important;
+	background-color: white;
+}
+
+.menu-icon{
+	height: 24px;
+	width: 24px;
+}
+/*Footer*/
+
+.icono-buap{
+	margin: auto;
+	padding: 10px 0px;
+	display: block;
+	height: 110px;
+
+
+}
+
+.icono-footer{
+	height: 24px;
+	widht: 24px;
+
+}
+
+.about{
+	color: white;
+	font-size: 14px;
+	background-color: #003B5C;
+	max-width: 100%;
+}
+
+.about p{
+	padding: 15px;
+}
+
+.about h5{
+  margin: 5px 0 10px 0;
+
+  padding: 3px 0;
+  border-bottom: 2px solid white;
+}
+
+.footer-seccion{
+  border-left: 1px solid rgba(255,255,255,0.2);
+}
+
+.about ul{
+	list-style-type: none;
+	margin-left: 0;
+	margin-bottom: 5px;
+}
+
+.about ul a{
+	color: white;
+}
+
+
+
+
+
+/*Estilos Auxiliares */
+
+.tarjeta{
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background-color: white;
+	border-radius: 3px;
+	margin: 15px auto;
+}
+
+.tarjeta ul{
+	padding: 10px 0;
+}
+
+.tarjeta p{
+	padding: 10px;
+
+}
+
+
+.ficha-perfil{
+	background: white;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+	padding: 25px;
+	display: block;
+	width: 80%
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.ficha-perfil hr{
+	margin: 5px 0;
+
+
+}
+
+.img-perfil-ficha{
+	margin-left: auto;
+	margin-right: auto;
+  	display: block;
+
+}
+
+.medidor{
+	background-color: red;
+}
+
+.medidor2{
+	background-color: blue;
+}
+
+.medidor3{
+	background-color: green;
+}
+
+
+/*Menu con imagenes */
+
+.elemento-menu{
+	display: block;
+
+}
+
+.icono-menu{
+	float: left;
+	height: 2rem;
+	width: 	2rem;
+}
+
+/*Sidebar del seminario semanal */
+
+.sidebar-seminario{
+	background-color: #003B5C;
+	color: white;
+	margin: 10px 0;
+}
+
+.sidebar-seminario a{
+	color: white;
+}
+
+/*Blog */
+
+.entrada{
+	margin: 10px 0;
+}
+
+.cabecera-articulo{
+	background-image: url(../assets/img/header1.jpg);
+	min-height: 150px;
+}
+
+.cabecera-articulo h2{
+	color: white;
+	padding: 100px 0 0 10px;
+}
+
+.img-articulo{
+	margin: 10px 0;
+}
+
+
+/* Sidebar horizontal portada */
+
+sidebar-horizontal-portada{
+	background-color: rgba(0,255,255,0.8);
+}
+
+
+/*widgets */
+.widget{
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background-color: white;
+	border-radius: 3px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.widget h4{
+	margin-left: 10px;
+}
+
+.widget hr{
+	max-width: 90%;
+}
+
+
+
+h1.titulo-widget, h2.titulo-widget, h3.titulo-widget, h4.titulo-widget, h5.titulo-widget, h6.titulo-widget{
+	color: #003B5C;
+	font-weight: bold;
+
+}
+/*Estilos de la seccion de eventos del home*/
+.lista-eventos{
+	list-style: none;
+	display: block;
+}
+.evento{
+	margin-top: 15px;
+}
+
+.evento:first-child{
+	margin-top: 0;
+}
+
+.cuerpo-evento{
+	display: table-cell;
+	vertical-align: top;
+}
+
+.cuerpo-evento h4, a{
+	color: #003B5C;
+	transition: color 0.5s ease 0s;
+}
+
+.cuerpo-evento a:hover{
+	color: #00B5E2;
+}
+
+.cuerpo-fecha{
+	display: table-cell;
+	vertical-align: top;
+	padding-right: 10px;
+}
+.fecha{
+	display: inline-block;
+	background: transparent;
+	width: 68px;
+	height: 68px;
+	border-right: 1px solid #ddd;
+	text-align: center;
+	padding-top: 10px;
+}
+.mes{
+	margin-top: 0;
+	font-size: 14px;
+	text-transform: uppercase;
+	display: block;
+	line-height: 19px;
+	color: #003262;
+}
+
+.dia{
+	font-weight: 400;
+	font-size: 39px;
+	display: block;
+	line-height: 22px;
+	color: #003262;
+
+}
+
+/*Estilos de la seccion de comunicados */
+
+.lista-comunicados{
+
+	list-style-type: none;
+	padding: 0 10px;
+	margin: 0;
+	border-left: 5px solid #00B5E2;
+}
+
+
+.lista-comunicados li{
+	border-bottom: 1px solid #a5a5a5;
+	padding-bottom: 5px;
+}
+
+.lista-comunicados  a{
+
+}
+
+.lista-comunicados li:last-child{
+	border-bottom: none;
+}
+
+.lista-comunicados a:hover{
+	text-decoration: underline;
+}
+
+.fecha-comunicado{
+	font-size: 12px;
+	color: grey;
+	font-style: italic;
+}
+
+
+.lista-vertical-index{
+	color: #a5a5a5;
+	background-color: transparent;
+	display: inline;
+}
+
+.lista-vertical-index > li > a{
+	color: #555;
+	padding: 0.4rem 0;
+
+
+}
+
+.lista-vertical-index a:hover{
+ color: #00B5E2;
+ text-decoration: underline;
+}
+
+
+
+
+/*Estilo de la pagina de eventos */
+.bloque-evento{
+ min-height: 200px;
+
+}
+
+.bloque-evento h3{
+	border-bottom: 1px solid #00B5E2;
+	color:  #003B5C;
+
+}
+
+.bloque-evento h1 h2 h4 h5 h6{
+	color:  #003B5C;
+}
+
+.bloque-fecha{
+
+}
+
+.bloque-lugar{
+
+}
+
+
+
+.imagen-cabecera{
+	height: 1.5rem;
+	width: 1.5rem;
+	float: left;
+
+}
+
+/*Pagina de evento individual 2 columnas */
+.cabecera-evento{
+	color: white;
+	background-color: #003B5C;
+	min-height: 90px;
+}
+
+.cabecera-evento h2{
+	padding: 25px 0;
+	font-size: 22pt;
+}
+
+.titulo-evento{
+	/*width: 950px;*/
+	margin: 0 auto;
+
+}
+
+.cabecera-subtitulo{
+	min-height: 45px;
+	background: #f5faff;
+	border-bottom: 1px solid #d5e4f1;
+	border-top: 1px solid #d5e4f1;
+}
+
+.subtitulo{
+	font-family: verdana,arial,sans-serif;
+	font-size: 12pt;
+}
+
+.contenido-subtitulo{
+	/*width: 950px; */
+	margin: 0 auto;
+	font-family: Verdana;
+	font-size: 11pt;
+	color: #24425a;
+}
+
+.fecha-lugar{
+	padding-top: 10px;
+	padding-bottom:  5px;
+}
+
+.ubicacion{
+	font-size: 10px;
+	color: #777;
+}
+
+.contenido-evento{
+	padding-top: 30px;
+	/*width: 950px; */
+	margin: 0 auto;
+	color: #777;
+	background-color: white;
+}
+
+.widget-lateral{
+	border: 1px solid grey;
+	margin-bottom: 10px;
+	background-color: #f6f6f6;
+}
+
+.widget-lateral li:first-child{
+	background-color: #dadada;
+	color: white;
+}
+
+.widget-lateral a{
+	font-size: 10pt;
+}
+
+.widget-lateral a:hover{
+	background-color: #dadada;
+}
+
+.widget-lateral-2{
+	border: 1px solid grey;
+	background-color: #f6f6f6;
+}
+
+
+.widget-lateral-2 li:first-child{
+	background-color: #1a64a0;
+	color: white;
+	padding-left: 10pt;
+}
+
+.wrapper-evento{
+	background-color: white;
+	padding-bottom: 10px;
+}
+
+.footer-evento-i{
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	background-color: white;
+}
+
+.informacion-evento{
+	background-color: #f4f4f4;
+	color: #777;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.lugar-evento, .fecha-evento{
+	display: inline-flex;
+	overflow: hidden;
+}
+
+.icono-evento{
+	height: 3rem;
+	width: 3rem;
+	float: left;
+}
+
+.contenido-bloque-evento{
+	display: block;
+	float: right;
+}
+
+.contenido-bloque-info-evento{
+	display: inline-block;
+}
+
+
+/*Estilos para páginas de eventos individuales de 3 columnas 2 | 8 | 2 */
+
+.icono-header{
+	padding: 20px 0;
+}
+
+.lista-materiales{
+
+
+}
+
+
+/*Menu portada material design  */
+
+.menu-portada-material{
+	background: #fff;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	z-index: 9;
+}
+
+.menu-portada-material a{
+	font-weight: bold;
+}
+
+.menu-portada-material a:hover{
+	color: white;
+}
+
+.menu-portada-material ul  {
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	z-index: 9;
+}
+
+.menu-portada-material li{
+	transition: background-color 0.5s ease 0s;
+}
+
+.menu-portada-material li:hover{
+	color: white;
+	background-color: #00B5E2;
+}
+.menu-portada-material li:last-child{
+	border-radius: 0 0 5px 5px;
+
+}
+
+.menu-portada-material li:first-child:hover{
+	border-radius: 5px 5px 0 0;
+}
+
+.menu-portada-material li:last-child:hover{
+
+}
+
+
+/*Estilo de la página de presentacion del CIFFU */
+
+.lista-lateral li{
+	border-bottom: 1px solid #ddd;
+}
+
+.lista-lateral li:last-child{
+	border-bottom: none;
+}
+
+.lista-laterial ul > li > a:hover{
+	color: white;
+	background-color: #777;
+}
+
+h1.titulo-presentacion, h2.titulo-presentacion, h3.titulo-presentacion, h4.titulo-presentacion, h5.titulo-presentacion, h6.titulo-presentacion{
+	color: #003B5C;
+	margin-top: 15px;
+	border-left: 5px solid #00B5E2;
+	border-bottom: 1px solid #003B5C;
+	padding-left: 10px;
+	font-weight: bold;
+
+}
+
+/*Slider inferior de la pagina principal */
+
+.docs-example-orbit-slide {
+  padding: 2rem 4rem;
+  color: white;
+	min-height: 260px;
+
+	width: 100%;
+
+}
+
+.orbit-slide:nth-of-type(1){
+	background: #354458;
+}
+
+.orbit-slide:nth-of-type(2)  {
+	background: #3a9ad9;
+}
+
+.orbit-slide:nth-of-type(3)  {
+	background: #29aba4;
+}
+
+.orbit-slide:nth-of-type(4)  {
+	background: #92b06a;
+}
+
+
+
+
+/*LISTA CON AUTOSCROLL */
+.table-responsive{
+  height:180px;
+	width:100%;
+  overflow-y: auto;
+
+}
+.table-responsive:hover{
+
+}
+
+table{width:100%;}
+td{padding:24px; background:#eee;}
+/*
+Azul celeste opaco: #3190c8
+Azul celeste opaco degradado: #39a7e7;
+
+Gris Oxford: #a5a5a5
+Verde turquesa opaco: #538585
+Azul ultramar: #0a273a
+Blanco molusco: #eeeeee
+Marron opaco: #67503d;
+
+Azul marino institucional: #003B5C;
+Cyan institucional: #00B5E2;
+*/

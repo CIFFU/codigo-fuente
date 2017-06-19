@@ -80,7 +80,10 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
   <div class="small-12 medium-8 large-8 column  text-justify ">
     <h3>CMS Day</h3>
 
-    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
+    This one-day journey will give us an overview of the status, expectations and future of the research activities done by the BUAP group and the Compact Muon Solenoide Collaboration at the CERN-LHC.
+Detector instrumentation work of the current system and the latest results on physics analysis will be presented, as well as, the expectations for the Phase II Detector Upgrade. 
+This meeting will  include special sessions where Mexican theory groups will interact with experimentalist to discuss about recent limits on the Extended Higgs Sector and their nobel proposals for Higgs signals that could be searched at the LHC.
+
     <br>
 
   </div>

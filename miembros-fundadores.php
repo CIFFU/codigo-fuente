@@ -497,7 +497,7 @@
 
   <div class="column">
     <div class="ficha-perfil" data-equalizer-watch>
-      <img src="assets/iconos/profile-pictures.png" class="img-perfil-ficha"/>
+      <img src="assets/iconos/profile-pictures-t.png" class="img-perfil-ficha"/>
        Dra. Maria Krawczyk
        <hr>
        University of Warsaw, Poland

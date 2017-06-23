@@ -31,9 +31,38 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
                 <br>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJfCLCaTeswTYhIkJxRfu1G0ztDQo5JlXxWxRBY75aFVf_gA/viewform" target="_blank" class="button float-right">Inscribirse</a>
 
+      <div class="row small-up-12 medium-up-2 large-up-2">
+        <div class="column">
+          <div class="lugar-evento">
+            <div class="icono-evento">
+            <img src="assets/iconos/clock-icon-dark.png">
+            </div>
 
+            <div class="contenido-bloque-evento">
+              <h4>Cronograma de Actividades</h4>
+              <p>
+                <a href="archivos/The-Quantum-Universe-programaFIN.pdf">Programa 29‑30 junio 2017</a>
+              </p>
+            </div>
 
+          </div>
+        </div>
+        <div class="column">
+          <div class="lugar-evento">
+            <div class="icono-evento">
+            <img src="assets/iconos/clip-icon.png">
+            </div>
 
+            <div class="contenido-bloque-evento">
+              <h4>Resumenes de pláticas</h4>
+              <p>
+                <a href="archivos/Abstract-QuantumUniverse.pdf">Resumen de ponencias</a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
 
   </div>
 
@@ -81,7 +110,7 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
     <h3>CMS Day</h3>
 
     This one-day journey will give us an overview of the status, expectations and future of the research activities done by the BUAP group and the Compact Muon Solenoide Collaboration at the CERN-LHC.
-Detector instrumentation work of the current system and the latest results on physics analysis will be presented, as well as, the expectations for the Phase II Detector Upgrade. 
+Detector instrumentation work of the current system and the latest results on physics analysis will be presented, as well as, the expectations for the Phase II Detector Upgrade.
 This meeting will  include special sessions where Mexican theory groups will interact with experimentalist to discuss about recent limits on the Extended Higgs Sector and their nobel proposals for Higgs signals that could be searched at the LHC.
 
     <br>
@@ -105,7 +134,7 @@ This meeting will  include special sessions where Mexican theory groups will int
 
 <div class="row tarjeta bloque-evento">
   <div class="small-12 medium-8 large-8 column  text-justify ">
-    <h3>The Cosmic Higgs Connections (The CHIC)</h3>
+    <h3>Cosmic Higgs Connections (CHICO)</h3>
 
     Una de las principales actividades del CIFFU consiste en la realización del taller “Cosmic Higgs Connections 2017”, el cual se propone sea el inicio de un encuentro emblemático del centro que se realice anualmente. En este taller se propone discutir el progreso más reciente en una de las áreas con mayor tradición en la BUAP, como lo es la física del Higgs.
 Además de cubrir la fenomenología del Higgs en colliders y bajas energías, tanto en el contexto del modelo estándar (SM) como en modelos más allá del SM, se propone discutir la interfase entre el sector de Higgs y la cosmología, por ejemplo, para transiciones de fase, bariogénesis y estabilidad del vacío.

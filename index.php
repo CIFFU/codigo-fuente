@@ -207,7 +207,7 @@ $el.hover(stop, anim);
             </div>
           </div>
           <div class="cuerpo-evento">
-            <h4><a href="eventos.php">The Cosmic Higgs Connections (The CHIC)</a></h4>
+            <h4><a href="eventos.php">Cosmic Higgs Connections (CHICO)</a></h4>
           </div>
         </li>
 

@@ -117,7 +117,7 @@
       <div class="ficha-perfil" data-equalizer-watch>
         <img src="assets/iconos/profile-pictures.png" class="img-perfil-ficha"/>
         <hr>
-        Dr. Alfonso Díaz Furlon.
+        Dr. Alfonso Díaz Furlong.
         <br>
         (FF, SNI-C).
       </div>
@@ -201,16 +201,7 @@
     </div>
   </div>
 
-  <div class="column">
-    <div class="ficha-perfil" data-equalizer-watch>
-        <img src="assets/iconos/profile-pictures.png" class="img-perfil-ficha"/>
-        <hr>
-        Dr. Gerando Hernández Tome
-        <hr>
-        CINVESTAV-IPN
 
-    </div>
-  </div>
 </div>
 
 <div id="estudiantes-asociados" data-magellan-target="estudiantes-asociados" style="margin-bottom: 35px;"> </div>
@@ -462,9 +453,18 @@
   <div class="column">
     <div class="ficha-perfil" data-equalizer-watch>
       <img src="assets/iconos/profile-pictures.png" class="img-perfil-ficha"/>
-      Dr. Lao Tze Lopez Lozano
+      Dr. Lao Tse Lopez Lozano
       <hr>
       UAEH
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="ficha-perfil" data-equalizer-watch>
+      <img src="assets/iconos/profile-pictures.png" class="img-perfil-ficha"/>
+      Dr. Javier Andrés Orduz Ducuara
+      <hr>
+      UNAM
     </div>
   </div>
 

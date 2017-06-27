@@ -149,7 +149,7 @@
         <hr>
         Dr. Josip Slisko Ignjatov
         <br>
-        FCFM, SNI-III
+        FCFM, SNI-II
       </div>
     </div>
 

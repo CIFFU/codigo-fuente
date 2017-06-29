@@ -35,7 +35,7 @@
       <div class="ficha-perfil" data-equalizer-watch>
         <img src="assets/iconos/profile-pictures.png" class="img-perfil-ficha"/>
         <hr>
-        Dr. Alfono Rosado Sánchez
+        Dr. Alfonso Rosado Sánchez
         <br>
         IFUAP, SNI-III
       </div>
@@ -589,7 +589,7 @@
     <div class="ficha-perfil" data-equalizer-watch>
       <img src="assets/iconos/profile-pictures.png" class="img-perfil-ficha"/>
 
-      Dra. José Wudka
+      Dr. José Wudka
       <hr>
       UC-Riverside, USA.
     </div>

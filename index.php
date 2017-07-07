@@ -37,17 +37,9 @@
 
             	<a href="#" >Programa de visitantes</a>
             </li>
-        	   <li>
-
-            	<a href="#">Talleres</a>
-            </li>
             <li>
 
-            	<a href="la-fisica-de-altas-energias-en-la-buap.php">Actividades de Investigación</a>
-            </li>
-            <li>
-
-            	<a href="#" >Comunicados</a>
+            	<a href="comunicados.php" >Comunicados</a>
             </li>
             <li >
 
@@ -66,28 +58,32 @@
                <button class="orbit-next boton-slider"><span class="show-for-sr">Noticia siguiente</span>&#9654;&#xFE0E;</button>
 
                <li class="is-active orbit-slide">
-                   <img class="orbit-image" src="assets/slider/sliderinicio.jpg" alt="fce-buap">
+                   <img class="orbit-image" src="assets/img/slider-presentacion.png" alt="fce-buap">
+
+               </li>
+               <li class="is-active orbit-slide">
+                   <img class="orbit-image" src="assets/slider/logoCMS.jpg" alt="fce-buap">
 
                </li>
                <li class="orbit-slide">
-                   <img class="orbit-image" src="assets/slider/Logo QuantumUniverse.jpg" alt="alumnos fce">
+                   <img class="orbit-image" src="assets/img/fotosEventoQuantum/1.jpg" alt="alumnos fce">
 
                </li>
                <li class="orbit-slide">
-                   <img class="orbit-image" src="assets/img/fb3.jpg" alt="alumnos fce">
-                   <figcaption class="orbit-caption">Próximamente The Quantum Universe en la BUAP</figcaption>
+                   <img class="orbit-image" src="assets/img/fotosEventoQuantum/2.jpg" alt="alumnos fce">
+
                </li>
                <li class="orbit-slide">
-                   <img class="orbit-image" src="assets/slider/sliderQuantum.jpg" alto="Quantum Universe BUAP">
+                   <img class="orbit-image" src="assets/img/fotosEventoQuantum/3.jpg" alto="Quantum Universe BUAP">
 
                </li>
 
                <li class="orbit-slide">
-                   <img class="orbit-image" src="assets/img/sl3.jpg" alt="alumnos fce">
-                   <figcaption class="orbit-caption">Conferencias</figcaption>
+                   <img class="orbit-image" src="assets/img/fotosEventoQuantum/4.jpg" alt="alumnos fce">
+                   <figcaption class="orbit-caption">Próximamente "CMS Day"</figcaption>
                </li>
                <li class="orbit-slide">
-                   <img class="orbit-image" src="assets/img/sl4.jpg" alt="alumnos fce">
+                   <img class="orbit-image" src="assets/img/fotosEventoQuantum/5.jpg" alt="alumnos fce">
 
                </li>
            </ul>
@@ -98,6 +94,7 @@
                <button data-slide="3"><span class="show-for-sr">Cuarto slide</span></button>
                <button data-slide="4"><span class="show-for-sr">Quinto slide</span></button>
                <button data-slide="5"><span class="show-for-sr">Sexto slide</span></button>
+               <button data-slide="6"><span class="show-for-sr">Septimo slide</span></button>
            </nav>
        </div>
     </div>
@@ -113,12 +110,12 @@
         <button class="orbit-next  boton-slider" aria-label="next"><span class="show-for-sr">Slide previo</span>&#9654;</button>
         <li class="is-active orbit-slide">
           <div class="docs-example-orbit-slide text-justify" >
-            <p>El CIFFU es un centro de investigación semi-virtual, especializado en Física Fundamental, con un enfoque multidisciplinario, donde confluyen esfuerzos coordinados para realizar investigación de frontera, formación de recursos humanos de alto nivel y la difusión de la ciencia, que buscará incidir en el sistema educativo nacional. Uno de sus objetivos es lograr un reconocimiento global y proyectar a la BUAP como una institución líder de México y Latinoamérica en el campo de la Física Fundamental, para beneficio de la comunidad universitaria y de la misma sociedad.</p>
+            <p>El CIFFU es un centro de investigación semi-virtual adscrito a la BUAP especializado en Física Fundamental, para fomentar la investigación de frontera y formación de recursos humanos de alto nivel, con un enfoque multidisciplinario y una alta componente de colaboraciones nacionales e internacionales. Una de sus metas es proyectar a la BUAP como una institución líder de México y Latinoamérica en el campo de la Física Fundamental. El CIFFU se propone también incidir en la sociedad, mediante la difusión científica y el analisis de los planes de enseñanza de las ciencias en el sistema educativo nacional.</p>
           </div>
         </li>
         <li class="orbit-slide">
-          <div class="docs-example-orbit-slide" >
-            <p>Las áreas de investigación que se desarrollan en el CIFFU incluyen la física de partículas elementales, tanto la búsqueda de señales en colisionadores como su conexión con la Astrofísica, Cosmología y los aspectos básicos de la Teoría Cuántica de Campos. En particular se propone estudiar temas de la física del sector de Higgs, el quark top, la búsqueda de materia oscura, rayos cósmicos y fundamentos de la Teoría Cuántica.</p>
+          <div class="docs-example-orbit-slide text-justify" >
+            <p>Las áreas de investigación que se desarrollan en el CIFFU incluyen la física de partículas elementales, tanto la búsqueda de señales en colisionadores como su conexión con la Astrofísica, Cosmología y Teoría Cuántica de Campos. En particular se propone estudiar temas de la física del sector de Higgs, el quark top, la materia oscura, rayos cósmicos, fundamentos y aplicaciones de la Teoría Cuántica. </p>
           </div>
         </li>
 
@@ -131,31 +128,51 @@
       <div class="widget" >
         <h4 class="titulo-widget">Artículos recientes del CIFFU</h4>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
-<div class="table-responsive">
-<ul class="lista-comunicados">
-  <li>
-    <a href="la-fisica-de-altas-energias-en-la-buap.php">La Física de Altas Energías en la BUAP</a>
-
-  </li>
-
-</ul>
-</div>
-
-<script>
-var $el = $(".table-responsive");
-function anim() {
-  var st = $el.scrollTop();
-  var sb = $el.prop("scrollHeight")-$el.innerHeight();
-  $el.animate({scrollTop: st<sb/2 ? sb : 0}, 12000, anim);
-}
-function stop(){
-  $el.stop();
-}
-anim();
-$el.hover(stop, anim);
-</script>
+        <!-- start sw-rss-feed code -->
+        <script type="text/javascript">
+        <!--
+        rssfeed_url = new Array();
+        rssfeed_url[0]="https://inspirehep.net/rss?ln=es&p=FIND+CIFFU";
+        rssfeed_frame_width="370";
+        rssfeed_frame_height="260";
+        rssfeed_scroll="on";
+        rssfeed_scroll_step="6";
+        rssfeed_scroll_bar="off";
+        rssfeed_target="_blank";
+        rssfeed_font_size="12";
+        rssfeed_font_face="";
+        rssfeed_border="on";
+        rssfeed_css_url="";
+        rssfeed_title="on";
+        rssfeed_title_name="";
+        rssfeed_title_bgcolor="#3366ff";
+        rssfeed_title_color="#fff";
+        rssfeed_title_bgimage="";
+        rssfeed_footer="off";
+        rssfeed_footer_name="rss feed";
+        rssfeed_footer_bgcolor="#fff";
+        rssfeed_footer_color="#333";
+        rssfeed_footer_bgimage="";
+        rssfeed_item_title_length="50";
+        rssfeed_item_title_color="#666";
+        rssfeed_item_bgcolor="#fff";
+        rssfeed_item_bgimage="";
+        rssfeed_item_border_bottom="on";
+        rssfeed_item_source_icon="off";
+        rssfeed_item_date="off";
+        rssfeed_item_description="on";
+        rssfeed_item_description_length="120";
+        rssfeed_item_description_color="#666";
+        rssfeed_item_description_link_color="#333";
+        rssfeed_item_description_tag="off";
+        rssfeed_no_items="0";
+        rssfeed_cache = "e6d73d0fb897dba964112138b9bda1b2";
+        //-->
+        </script>
+        <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script>
+        <!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. -->
+        <div style="text-align:right; width:370px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">feedwidget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">Surfing Waves</a></div>
+        <!-- end sw-rss-feed code -->
 
       </div>
 
@@ -174,17 +191,6 @@ $el.hover(stop, anim);
     	<div class="widget" data-equalizer-watch>
     	<h4 class="titulo-widget">Próximos eventos</h4>
       <ul class="lista-eventos">
-        <li class="evento">
-          <div class="cuerpo-fecha">
-            <div class="fecha">
-              <span class="dia">29</span>
-              <span class="mes">Junio</span>
-            </div>
-          </div>
-          <div class="cuerpo-evento">
-            <h4><a href="eventos.php">The Quantum Universe</a></h4>
-          </div>
-        </li>
 
         <li class="evento">
           <div class="cuerpo-fecha">

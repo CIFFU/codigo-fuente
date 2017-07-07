@@ -10,7 +10,11 @@
       </p>
 
       <p>
-        El proyecto asume la coordinación de sinergias entre los profesores investigadores de la BUAP en temas de Física Fundamental, incluyendo las áreas  de partículas y Campos, Cosmología, Astrofísica y aspectos básicos de la teoría Cuántica de la BUAP, interesados todos en desarrollar investigación básica  orientada a resolver problemas de frontera.  Así mismo, se propone realizar labores de consultoría dentro y fuera de la BUAP, para el estudio de problemas nacionales, mediante de los desarrollos científicos y tecnológicos de estas áreas del conocimiento. En particular, se propone  continuar con el estudio  de los temas de Física de Partículas Elementales con mayor tradición (bosón de Higgs, quark top,  materia oscura y rayos cósmicos), incluyendo la formulación de nuevos modelos, así como el estudio de las implicaciones experimentales en colisionadores y el Cosmos. El centro se propone participar en labores de divulgación de la ciencia y estudiar la inserción del nuevo conocimiento en los programas educativos del país.
+
+        El proyecto se propone  coordinar la colaboración de los profesores-investigadores de la BUAP que trabajan en temas de Física Fundamental, incluidas  las áreas de Partículas y Campos, Cosmología, Astrofísica y aspectos básicos de la Teoría Cuántica de la BUAP, interesados todos en desarrollar investigación básica orientada a resolver problemas de frontera.
+
+        Asimismo, se propone realizar labores de consultoría dentro y fuera de la BUAP, para el estudio de problemas nacionales, buscando aplicar los desarrollos científicos y tecnológicos asociados con estas áreas del conocimiento. En particular, se propone continuar con el estudio de los temas de Física de Partículas Elementales con mayor tradición en la BUAP (bosón de Higgs, quark top, materia oscura y rayos cósmicos), incluyendo la formulación de nuevos modelos de partículas, así como el estudio de sus implicaciones experimentales en colisionadores y el Cosmos. El centro se propone participar en labores de divulgación de la ciencia y estudiar la inserción del nuevo conocimiento en los programas educativos del país.
+
       </p>
 
       <p>
@@ -78,6 +82,7 @@ como la organización de eventos académicos (talleres, escuelas y simposios), a
           <ul class="menu vertical tarjeta"  data-magellan data-bar-offset="90">
             <li><a href="#queeselciffu" class="hvr-underline-from-center">Resumen</a></li>
             <li><a href="#mision" class="hvr-underline-from-center">Presentación</a></li>
+            <li><a href="la-fisica-de-altas-energias-en-la-buap.php" class="hvr-underline-from-center">La física de altas energías en la BUAP</a></li>
             <li><a href="#vision" class="hvr-underline-from-center">Visión</a></li>
             <li><a href="#antecedentes" class="hvr-underline-from-center">Antecedentes</a></li>
 

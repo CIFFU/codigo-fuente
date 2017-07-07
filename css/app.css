@@ -863,6 +863,14 @@ h1.titulo-presentacion, h2.titulo-presentacion, h3.titulo-presentacion, h4.titul
 
 table{width:100%;}
 td{padding:24px; background:#eee;}
+
+.mini-mapa{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 /*
 Azul celeste opaco: #3190c8
 Azul celeste opaco degradado: #39a7e7;

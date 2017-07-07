@@ -8,6 +8,7 @@
   </div>
 </div>
 
+<!--
 <div class="row tarjeta bloque-evento">
   <div class="small-12 medium-8 large-8 column text-justify">
     <h3>The Quantum Universe </h3>
@@ -103,7 +104,7 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
 
 
 </div>
-
+-->
 
 <div class="row tarjeta bloque-evento">
   <div class="small-12 medium-8 large-8 column  text-justify ">
@@ -126,7 +127,7 @@ This meeting will  include special sessions where Mexican theory groups will int
 
   <div class="small-12 medium-2 large-2 column bloque-fecha">
     <h3>Fecha:</h3>
-    14 de Agosto
+    28 de Agosto
 
   </div>
 
@@ -185,6 +186,33 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
 
 <div class="row tarjeta">
   <ul class="accordion" data-accordion>
+    <li class="accordion-item" data-accordion-item>
+      <a href="#" class="accordion-title">Eventos 2017</a>
+
+      <div class="accordion-content" data-tab-content>
+          <table>
+            <thead>
+                <tr>
+                  <th>Evento</th>
+                  <th>Lugar</th>
+                  <th>Fecha</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>The Quantum Universe</td>
+                <td>Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM</td>
+                <td>29 y 30 de Junio</td>
+              </tr>
+
+
+            </tbody>
+          </table>
+
+      </div>
+    </li>
+
+
     <li class="accordion-item is-active" data-accordion-item>
       <a href="#" class="accordion-title">Eventos 2016</a>
 

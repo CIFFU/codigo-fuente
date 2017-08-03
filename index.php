@@ -195,7 +195,7 @@
         <li class="evento">
           <div class="cuerpo-fecha">
             <div class="fecha">
-              <span class="dia">28</span>
+              <span class="dia">30</span>
               <span class="mes">Agosto</span>
             </div>
           </div>

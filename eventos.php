@@ -127,7 +127,7 @@ This meeting will  include special sessions where Mexican theory groups will int
 
   <div class="small-12 medium-2 large-2 column bloque-fecha">
     <h3>Fecha:</h3>
-    28 de Agosto
+    30 de Agosto
 
   </div>
 

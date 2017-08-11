@@ -13,10 +13,14 @@
 
    <div class="about row small-up-1 medium-up-2 large-up-4" id="contacto" data-magellan-target="contacto">
 
-		<div class="column">
-			<a href="http://www.buap.mx/" target="_blank"><img src="assets/logos/escudo_bottom.png" class="icono-buap"></a>
-    </div>
-		<div class="column">
+
+  <div class="column">
+
+     			<a href="http://www.buap.mx/" target="_blank"><img src="assets/logos/escudo_bottom.png" class="icono-buap"></a>
+
+  </div>
+
+	<div class="column">
         <h5>Contacto:</h5>
             <ul>
                 <li><img src="assets/iconos/person-icon.png" class="icono-footer"/> <a href="#" target="_blank">Dra. Olga Guadalupe Félix Beltrán</a></li>
@@ -26,22 +30,22 @@
 
             </ul>
 
-        </div>
-		<div class="column">
+  </div>
+	<div class="column">
         <h5>Dirección:</h5>
 
         <img src="assets/iconos/map-icon.png" class="icono-footer"/>
         Av. San Claudio y 18 Sur, C.U. Edificio 1FCE6 Cubículo 204C, Colonia Jardines de San Manuel, CP72570 Puebla, Pue., México
 
-        </div>
+  </div>
 
-        <div class="column">
+  <div class="column">
         <h5>Redes sociales:</h5>
             <ul>
-                <li><img src="assets/iconos/facebook-icon.png" class="icono-footer"/> <a href="#" target="_blank">Facebook</a></li>
+                  <li><img src="assets/iconos/youtube-icon.png" class="icono-footer"/> <a href="https://www.youtube.com/channel/UCfbh1BZqZdYKGwZdCwHNosw" target="_blank">Youtube</a></li>
 
             </ul>
-        </div>
+  </div>
 
 
 	</div>

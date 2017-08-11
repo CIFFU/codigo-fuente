@@ -115,20 +115,34 @@ Detector instrumentation work of the current system and the latest results on ph
 This meeting will  include special sessions where Mexican theory groups will interact with experimentalist to discuss about recent limits on the Extended Higgs Sector and their nobel proposals for Higgs signals that could be searched at the LHC.
 
     <br>
+    <br>
+    <br>
+    <a href="https://indico.cern.ch/event/655545/" target="_blank" class="button float-right">Registration: https://indico.cern.ch/e/CMSdayPuebla</a>
 
   </div>
 
-  <div class="small-12 medium-2 large-2 column bloque-lugar">
-    <h3>Lugar:</h3>
+  <div class="small-12 medium-4 large-4 column">
+    <div class="row">
+      <div class="small-12 medium-6 large-6 column bloque-lugar">
+        <h3>Lugar:</h3>
 
-     Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM
+         Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM
 
-  </div>
+      </div>
 
-  <div class="small-12 medium-2 large-2 column bloque-fecha">
-    <h3>Fecha:</h3>
-    30 de Agosto
+      <div class="small-12 medium-6 large-6 column bloque-fecha">
+        <h3>Fecha:</h3>
+        30 de Agosto
 
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="small-12 column">
+          <a href="assets\img\seminarios\CMSDAYPOSTERV1.png"><img src="assets\img\seminarios\CMSDAYPOSTERV1.png"></a>
+      </div>
+    </div>
   </div>
 
 </div>

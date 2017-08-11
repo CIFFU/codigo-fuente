@@ -6,17 +6,11 @@
     <div class="small-12 medium-12 large-4 column hide-for-small-only" >
       <nav data-magellan data-bar-offset="50">
     	<ul class="vertical dropdown menu menu-portada-material" data-dropdown-menu >
-        	<li>
-
-
-          <a href="index.php" >Inicio</a>
-
-            </li>
             <li>
               <a href="presentacion.php">¿Qué es el CIFFU?</a>
             </li>
             <li>
-            	<a href="miembros-fundadores.php">Investigadores del CIFFU</a>
+            	<a href="miembros-fundadores.php">Investigadores</a>
                 <ul class="menu">
                 	<li><a href="miembros-fundadores.php" >Miembros permanentes</a></li>
                     <li><a href="miembros-fundadores.php#colaboradores-internos" >Colaboradores Internos</a></li>
@@ -34,15 +28,16 @@
             	<a href="seminario066.php">Seminario BNFAC</a>
             </li>
             <li>
-
             	<a href="#" >Programa de visitantes</a>
             </li>
-            <li>
-
-            	<a href="comunicados.php" >Comunicados</a>
+            <li class="elemento-individual">
+            	Información para visitantes
+              <ul class="menu">
+                <li><a href="como-llegar-a-puebla.php">¿Cómo llegar a la ciudad de Puebla?</a></li>
+                <li><a href="como-llegar-a-la-buap.php">¿Cómo llegar a la BUAP?</a></li>
+              </ul>
             </li>
             <li >
-
             	<a href="eventos.php" >Eventos 2017</a>
             </li>
 
@@ -62,7 +57,7 @@
 
                </li>
                <li class="is-active orbit-slide">
-                   <img class="orbit-image" src="assets/slider/logoCMS.jpg" alt="fce-buap">
+                   <img class="orbit-image" src="assets/slider/CMSDay-Membrete31-07-2017.png" alt="fce-buap">
 
                </li>
                <li class="orbit-slide">
@@ -103,7 +98,7 @@
 </div>
 
 <div class="row " >
-  <div class="small-12 medium-8 large-8 columns">
+  <div class="small-12 medium-7 large-7 columns">
     <div class="orbit" role="region" aria-label="¿Que es el CIFFU BUAP" data-orbit style="width: 100%;">
       <ul class="orbit-container" >
         <button class="orbit-previous  boton-slider" aria-label="previous"><span class="show-for-sr">Slide siguiente</span>&#9664;</button>
@@ -124,137 +119,97 @@
     </div>
   </div>
 
-  <div class="small-12 medium-4 large-4 column">
-      <div class="widget" >
-        <h4 class="titulo-widget">Artículos recientes del CIFFU</h4>
+  <div class="small-12 medium-5 large-5 column">
+    <div class="widget" >
+    <h4 class="titulo-widget">Próximos eventos</h4>
+    <ul class="lista-eventos">
 
-        <!-- start sw-rss-feed code -->
-        <script type="text/javascript">
-        <!--
-        rssfeed_url = new Array();
-        rssfeed_url[0]="https://inspirehep.net/rss?ln=es&p=FIND+CIFFU";
-        rssfeed_frame_width="370";
-        rssfeed_frame_height="260";
-        rssfeed_scroll="on";
-        rssfeed_scroll_step="6";
-        rssfeed_scroll_bar="off";
-        rssfeed_target="_blank";
-        rssfeed_font_size="12";
-        rssfeed_font_face="";
-        rssfeed_border="on";
-        rssfeed_css_url="";
-        rssfeed_title="on";
-        rssfeed_title_name="";
-        rssfeed_title_bgcolor="#3366ff";
-        rssfeed_title_color="#fff";
-        rssfeed_title_bgimage="";
-        rssfeed_footer="off";
-        rssfeed_footer_name="rss feed";
-        rssfeed_footer_bgcolor="#fff";
-        rssfeed_footer_color="#333";
-        rssfeed_footer_bgimage="";
-        rssfeed_item_title_length="50";
-        rssfeed_item_title_color="#666";
-        rssfeed_item_bgcolor="#fff";
-        rssfeed_item_bgimage="";
-        rssfeed_item_border_bottom="on";
-        rssfeed_item_source_icon="off";
-        rssfeed_item_date="off";
-        rssfeed_item_description="on";
-        rssfeed_item_description_length="120";
-        rssfeed_item_description_color="#666";
-        rssfeed_item_description_link_color="#333";
-        rssfeed_item_description_tag="off";
-        rssfeed_no_items="0";
-        rssfeed_cache = "e6d73d0fb897dba964112138b9bda1b2";
-        //-->
-        </script>
-        <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script>
-        <!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. -->
-        <div style="text-align:right; width:370px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">feedwidget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">Surfing Waves</a></div>
-        <!-- end sw-rss-feed code -->
-
-      </div>
-
-      <div class="widget" style="margin-top: 10px;">
-            <a href="https://inspirehep.net/" target="_blank"><img src="assets/logos/instituciones/inspire.png" class="float-center logo-liga-interes"/></a>
+      <li class="evento">
+        <div class="cuerpo-fecha">
+          <div class="fecha">
+            <span class="dia">30</span>
+            <span class="mes">August</span>
+          </div>
+        </div>
+        <div class="cuerpo-evento">
+          <h4><a href="eventos.php">CMS Day</a></h4>
+        </div>
+      </li>
 
 
-      </div>
+      <li class="evento">
+        <div class="cuerpo-fecha">
+          <div class="fecha">
+            <span class="dia">27</span>
+            <span class="mes">Sept</span>
+          </div>
+        </div>
+        <div class="cuerpo-evento">
+          <h4><a href="eventos.php">Cosmic Higgs Connections (CHICO)</a></h4>
+        </div>
+      </li>
+
+      <li class="evento">
+        <div class="cuerpo-fecha">
+          <div class="fecha">
+            <span class="dia">3</span>
+            <span class="mes">Nov</span>
+          </div>
+        </div>
+        <div class="cuerpo-evento">
+          <h4><a href="eventos.php">Dark Day</a></h4>
+        </div>
+      </li>
+    </ul>
+    <hr>
+  <h4 class="titulo-widget">Eventos externos</h4>
+
+  <ul class="lista-eventos">
+
+      <li class="evento">
+
+
+        <div class="cuerpo-fecha">
+          <div class="fecha">
+            <span class="dia">24</span>
+            <span class="mes">Mayo</span>
+          </div>
+        </div>
+        <div class="cuerpo-evento">
+          <h4><a href="https://indico.nucleares.unam.mx/event/1243/">Reunión Anual de la División de Partículas y Campos de la SMF.</a></h4>
+        </div>
+
+
+      </li>
+
+
+
+  </ul>
+
+    </div>
   </div>
 </div>
 
 <hr>
 
-<div class="row small-up-1 medium-up-1 large-up-2 sidebar-horizontal-portada" id="calendario" data-magellan-target="calendario" data-equalizer data-equalize-on="medium" >
+<div class="row small-up-1 medium-up-1 large-up-2 sidebar-horizontal-portada" id="calendario" data-magellan-target="calendario" data-equalizer data-equalize-on="large" data-equalize-by-row="true">
 	<div class="column column-block" >
-    	<div class="widget" data-equalizer-watch>
-    	<h4 class="titulo-widget">Próximos eventos</h4>
-      <ul class="lista-eventos">
 
-        <li class="evento">
-          <div class="cuerpo-fecha">
-            <div class="fecha">
-              <span class="dia">30</span>
-              <span class="mes">Agosto</span>
-            </div>
-          </div>
-          <div class="cuerpo-evento">
-            <h4><a href="eventos.php">CMS Day</a></h4>
-          </div>
-        </li>
+    <div class="widget" data-equalizer-watch>
+      <h4 class="titulo-widget">Artículos recientes del CIFFU</h4>
+
+       <!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="41084/"></script> <!-- end feedwind code -->
+
+    </div>
+
+    <div class="widget" style="margin-top: 10px;">
+          <a href="https://inspirehep.net/" target="_blank"><img src="assets/logos/instituciones/inspire.png" class="float-center logo-liga-interes"/></a>
 
 
-        <li class="evento">
-          <div class="cuerpo-fecha">
-            <div class="fecha">
-              <span class="dia">27</span>
-              <span class="mes">Sept</span>
-            </div>
-          </div>
-          <div class="cuerpo-evento">
-            <h4><a href="eventos.php">Cosmic Higgs Connections (CHICO)</a></h4>
-          </div>
-        </li>
-
-        <li class="evento">
-          <div class="cuerpo-fecha">
-            <div class="fecha">
-              <span class="dia">3</span>
-              <span class="mes">Nov</span>
-            </div>
-          </div>
-          <div class="cuerpo-evento">
-            <h4><a href="eventos.php">Dark Day</a></h4>
-          </div>
-        </li>
-      </ul>
-      <hr>
-    <h4 class="titulo-widget">Eventos externos</h4>
-
-    <ul class="lista-eventos">
-
-        <li class="evento">
-
-
-          <div class="cuerpo-fecha">
-            <div class="fecha">
-              <span class="dia">24</span>
-              <span class="mes">Mayo</span>
-            </div>
-          </div>
-          <div class="cuerpo-evento">
-            <h4><a href="https://indico.nucleares.unam.mx/event/1243/">Reunión Anual de la División de Partículas y Campos de la SMF.</a></h4>
-          </div>
-
-
-        </li>
+    </div>
 
 
 
-    </ul>
-
-      </div>
     </div>
 
     <div class="column column-block" >

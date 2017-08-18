@@ -154,7 +154,6 @@ This meeting will  include special sessions where Mexican theory groups will int
     <br>
     <br>
     <br>
-    <a href="https://indico.cern.ch/event/655545/" target="_blank" class="button float-right">Registration: https://indico.cern.ch/e/CMSdayPuebla</a>
 
   </div>
 
@@ -176,7 +175,7 @@ This meeting will  include special sessions where Mexican theory groups will int
 
     <div class="row">
       <div class="small-12 column">
-          <a href="assets\img\seminarios\CMSDAYPOSTERV1.png"><img src="assets\img\seminarios\CMSDAYPOSTERV1.png"></a>
+
       </div>
     </div>
   </div>

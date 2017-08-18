@@ -135,12 +135,12 @@
           <h4><a href="eventos.php">CMS Day</a></h4>
         </div>
       </li>
-	  
+
 	  <li class="evento">
         <div class="cuerpo-fecha">
           <div class="fecha">
             <span class="dia">5</span>
-            <span class="mes">September</span>
+            <span class="mes">Sept</span>
           </div>
         </div>
         <div class="cuerpo-evento">

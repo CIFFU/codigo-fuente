@@ -140,7 +140,7 @@
         <div class="cuerpo-fecha">
           <div class="fecha">
             <span class="dia">5</span>
-            <span class="mes">Septiembre</span>
+            <span class="mes">Sept</span>
           </div>
         </div>
         <div class="cuerpo-evento">

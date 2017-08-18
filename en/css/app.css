@@ -64,7 +64,7 @@ Barra de navegacion superior
 .barra-idiomas > ul > li > a{
 	border: 1px solid #70777F;
 	background-color: #B4C0CF;
-	color: white;
+	color: #003B5C;
 	margin: 3px 3px;
 	border-radius: 4px;
 	padding: 0.5rem 0.3rem;
@@ -73,7 +73,7 @@ Barra de navegacion superior
 
 .barra-idiomas > ul > li > a:hover{
 	border: 1px solid #70777F;
-	background-color: #00B35C;
+	background-color: #003B5C;
 	color: white;
 	margin: 3px 3px;
 	border-radius: 4px;

@@ -832,7 +832,7 @@ td{padding:24px; background:#eee;}
 .barra-idiomas > ul > li > a{
 	border: 1px solid #70777F;
 	background-color: #B4C0CF;
-	color: #00B35C;
+	color: #003B5C;
 	margin: 3px 3px;
 	border-radius: 4px;
 	padding: 0.5rem 0.3rem;
@@ -841,7 +841,7 @@ td{padding:24px; background:#eee;}
 
 .barra-idiomas > ul > li > a:hover{
 	border: 1px solid #70777F;
-	background-color: #00B35C;
+	background-color: #003B5C;
 	color: white;
 	margin: 3px 3px;
 	border-radius: 4px;

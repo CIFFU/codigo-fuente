@@ -73,8 +73,8 @@
   <div id="header" class="top-bar" data-sticky data-options="marginTop:0;  stickyOn:small;" style="width:100%">
     <div class="barra-idiomas"  style="background-color: #ffffff; width:100%">
       <ul class="menu float-right">
-        <li><a href="../index.php">Español</a></li>
-        <li><a href="index.php">English</a></li>
+        <li><a href="index.php">Español</a></li>
+        <li><a href="en/index.php">English</a></li>
       </ul>
     </div>
     <div class="top-bar-left">

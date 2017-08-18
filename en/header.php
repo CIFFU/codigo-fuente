@@ -74,8 +74,8 @@
 
     <div class="barra-idiomas"  style="background-color: #ffffff; width:100%">
       <ul class="menu float-right">
-        <li><a href="index.php">Español</a></li>
-        <li><a href="en/index.php">English</a></li>
+        <li><a href="../index.php">Español</a></li>
+        <li><a href="index.php">English</a></li>
       </ul>
     </div>
     <div id="header" class="top-bar"  style="width:100%">

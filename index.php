@@ -136,6 +136,17 @@
         </div>
       </li>
 
+	  <li class="evento">
+        <div class="cuerpo-fecha">
+          <div class="fecha">
+            <span class="dia">5</span>
+            <span class="mes">Septiembre</span>
+          </div>
+        </div>
+        <div class="cuerpo-evento">
+          <h4><a href="eventos.php">Collider Physics in Mexico</a></h4>
+        </div>
+      </li>
 
       <li class="evento">
         <div class="cuerpo-fecha">

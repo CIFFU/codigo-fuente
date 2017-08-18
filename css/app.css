@@ -828,6 +828,18 @@ h1.titulo-presentacion, h2.titulo-presentacion, h3.titulo-presentacion, h4.titul
 
 table{width:100%;}
 td{padding:24px; background:#eee;}
+
+.barra-idiomas > ul > li > a{
+	border: 1px solid #70777F;
+	background-color: #B4C0CF;
+	color: white;
+	margin: 3px 3px;
+	border-radius: 4px;
+	padding: 0.5rem 0.3rem;
+	font-size: 10px;
+}
+
+
 /*
 Azul celeste opaco: #3190c8
 Azul celeste opaco degradado: #39a7e7;

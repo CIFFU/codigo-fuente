@@ -8,103 +8,7 @@
   </div>
 </div>
 
-<!--
-<div class="row tarjeta bloque-evento">
-  <div class="small-12 medium-8 large-8 column text-justify">
-    <h3>The Quantum Universe </h3>
 
-    La jornada dedicada al “Mundo Cuántico”, se propone iniciar una serie de mini-talleres que cumplan con el propósito de fomentar la discusión de temas de frontera que involucren de manera significativa a la física cuántica. Esto con el objetivo de facilitar el trabajo de investigación en problemas básicos que jueguen un papel aglutinador de diversas disciplinas. El propósito del encuentro es identificar similitudes entre grupos diversos, con potenciales sinergias, para mirar los aspectos fundamentales de la física cuántica y sus posibles aplicaciones.
-Para cumplir con este objetivo se propone convocar a expertos en dichos temas de investigación o afines, para que nos presenten pláticas de revisión general del tema o de sus propios avances.
-
-    <br>
-    <br>
-
-            <h4>Ponentes invitados</h4>
-
-            <ol>
-              <li>Dr. Eduardo Gómez García (UASLP)</li>
-              <li>Dra. Libertad Barrón Palos(UNAM)</li>
-              <li>Dr. Sujoy Kumar Modak (UCOL)</li>
-              <li>Dr. Juan Mauricio Torres González(BUAP)</li>
-              <li>Dr. Francois Leyvraz Waltz (UNAM) </li>
-            </ol>
-
-                <br>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJfCLCaTeswTYhIkJxRfu1G0ztDQo5JlXxWxRBY75aFVf_gA/viewform" target="_blank" class="button float-right">Inscribirse</a>
-
-      <div class="row small-up-12 medium-up-2 large-up-2">
-        <div class="column">
-          <div class="lugar-evento">
-            <div class="icono-evento">
-            <img src="assets/iconos/clock-icon-dark.png">
-            </div>
-
-            <div class="contenido-bloque-evento">
-              <h4>Cronograma de Actividades</h4>
-              <p>
-                <a href="archivos/The-Quantum-Universe-programaFIN.pdf">Programa 29‑30 junio 2017</a>
-              </p>
-            </div>
-
-          </div>
-        </div>
-        <div class="column">
-          <div class="lugar-evento">
-            <div class="icono-evento">
-            <img src="assets/iconos/clip-icon.png">
-            </div>
-
-            <div class="contenido-bloque-evento">
-              <h4>Resumenes de pláticas</h4>
-              <p>
-                <a href="archivos/Abstract-QuantumUniverse.pdf">Resumen de ponencias</a>
-              </p>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
-  </div>
-
-
-  <div class="small-12 medium-4 large-4 column bloque-lugar">
-    <div class="row">
-          <div class="small-12 medium-6 large-6 column bloque-lugar">
-            <h3>Lugar:</h3>
-
-             Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM
-
-          </div>
-
-          <div class="small-12 medium-6 large-6 column bloque-fecha">
-            <h3>Fecha:</h3>
-
-            29 y 30 de Junio del 2017
-          </div>
-    </div>
-
-
-      <h3>Materiales:</h3>
-
-
-
-
-
-      <a href="assets/img/seminarios/QUniversePoster_Difusion.jpg"><img src="assets/img/seminarios/QUniversePoster_Difusion.jpg"/></a>
-
-
-
-
-
-  </div>
-
-
-
-
-
-</div>
--->
 
 <div class="row tarjeta bloque-evento">
   <div class="small-12 medium-8 large-8 column  text-justify ">
@@ -132,7 +36,48 @@ This meeting will  include special sessions where Mexican theory groups will int
 
       <div class="small-12 medium-6 large-6 column bloque-fecha">
         <h3>Fecha:</h3>
-        30 de Agosto
+          August 30
+
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="small-12 column">
+          <a href="assets\img\seminarios\CMSDAYPOSTERV1.png"><img src="assets\img\seminarios\CMSDAYPOSTERV1.png"></a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="row tarjeta bloque-evento">
+  <div class="small-12 medium-8 large-8 column  text-justify ">
+    <h3>Collider Physics in Mexico</h3>
+
+    This one-day journey will give us an overview of the status, expectations and future of the research activities done by the BUAP group and the Compact Muon Solenoide Collaboration at the CERN-LHC.
+Detector instrumentation work of the current system and the latest results on physics analysis will be presented, as well as, the expectations for the Phase II Detector Upgrade.
+This meeting will  include special sessions where Mexican theory groups will interact with experimentalist to discuss about recent limits on the Extended Higgs Sector and their nobel proposals for Higgs signals that could be searched at the LHC.
+
+    <br>
+    <br>
+    <br>
+    <a href="https://indico.cern.ch/event/655545/" target="_blank" class="button float-right">Registration: https://indico.cern.ch/e/CMSdayPuebla</a>
+
+  </div>
+
+  <div class="small-12 medium-4 large-4 column">
+    <div class="row">
+      <div class="small-12 medium-6 large-6 column bloque-lugar">
+        <h3>Lugar:</h3>
+
+         Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM
+
+      </div>
+
+      <div class="small-12 medium-6 large-6 column bloque-fecha">
+        <h3>Fecha:</h3>
+          August 30
 
       </div>
 

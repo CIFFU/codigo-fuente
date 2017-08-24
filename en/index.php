@@ -61,7 +61,7 @@
 
                </li>
                <li class="orbit-slide">
-                   <img class="orbit-image" src="assets/img/fotosEventoQuantum/1.jpg" alt="alumnos fce">
+                   <img class="orbit-image" src="assets/slider/slidercollider.png" alt="alumnos fce">
 
                </li>
                <li class="orbit-slide">

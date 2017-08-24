@@ -132,7 +132,7 @@ This meeting will  include special sessions where Mexican theory groups will int
 
       <div class="small-12 medium-6 large-6 column bloque-fecha">
         <h3>Date:</h3>
-        August 30
+        August 30.
 
       </div>
 
@@ -140,7 +140,7 @@ This meeting will  include special sessions where Mexican theory groups will int
 
     <div class="row">
       <div class="small-12 column">
-          <a href="assets\img\seminarios\CMSDAYPOSTERV1.png"><img src="assets\img\seminarios\CMSDAYPOSTERV1.png"></a>
+         <a href="assets\img\CMSdayPoster-001.jpg"><img src="assets\img\CMSdayPoster-001.jpg"></a>
       </div>
     </div>
   </div>
@@ -172,10 +172,11 @@ This meeting will  include special sessions where Mexican theory groups will int
       </div>
 
     </div>
-
+	
     <div class="row">
       <div class="small-12 column">
-
+			 
+			  <a href="assets\img\CPW-Poster_Draft-01-001.jpg"><img src="assets\img\CPW-Poster_Draft-01-001.jpg"></a>
       </div>
     </div>
   </div>

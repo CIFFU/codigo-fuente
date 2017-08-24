@@ -57,7 +57,7 @@
 
                </li>
                <li class="is-active orbit-slide">
-                   <img class="orbit-image" src="assets/slider/CMSDay-Membrete31-07-2017.png" alt="fce-buap">
+                   <img class="orbit-image" src="assets/slider/CMSdayMembrete-001.jpg" alt="cms-day">
 
                </li>
                <li class="orbit-slide">

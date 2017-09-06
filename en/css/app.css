@@ -565,7 +565,7 @@ h1.titulo-widget, h2.titulo-widget, h3.titulo-widget, h4.titulo-widget, h5.titul
 
 }
 
-.bloque-evento h1 h2 h4 h5 h6{
+.bloque-evento h1, h2, h4, h5, h6{
 	color:  #003B5C;
 }
 

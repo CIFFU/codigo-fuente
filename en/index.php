@@ -56,10 +56,7 @@
                    <img class="orbit-image" src="assets/img/slider-presentacion.png" alt="fce-buap">
 
                </li>
-               <li class="is-active orbit-slide">
-                   <img class="orbit-image" src="assets/slider/CMSdayMembrete-001.jpg" alt="fce-buap">
 
-               </li>
                <li class="orbit-slide">
                    <img class="orbit-image" src="assets/slider/slidercollider.png" alt="alumnos fce">
 
@@ -73,10 +70,7 @@
 
                </li>
 
-               <li class="orbit-slide">
-                   <img class="orbit-image" src="assets/img/fotosEventoQuantum/4.jpg" alt="alumnos fce">
-                   <figcaption class="orbit-caption">Próximamente "CMS Day"</figcaption>
-               </li>
+
                <li class="orbit-slide">
                    <img class="orbit-image" src="assets/img/fotosEventoQuantum/5.jpg" alt="alumnos fce">
 
@@ -84,12 +78,10 @@
            </ul>
            <nav class="orbit-bullets">
                <button class="is-active" data-slide="0"><span class="show-for-sr">Primer slide</span></button>
-               <button data-slide="1"><span class="show-for-sr">Segundo slide</span></button>
-               <button data-slide="2"><span class="show-for-sr">Tercer slide</span></button>
-               <button data-slide="3"><span class="show-for-sr">Cuarto slide</span></button>
-               <button data-slide="4"><span class="show-for-sr">Quinto slide</span></button>
-               <button data-slide="5"><span class="show-for-sr">Sexto slide</span></button>
-               <button data-slide="6"><span class="show-for-sr">Septimo slide</span></button>
+               <button data-slide="1"><span class="show-for-sr">Segundo slide</span></button>             
+               <button data-slide="2"><span class="show-for-sr">Cuarto slide</span></button>
+               <button data-slide="3"><span class="show-for-sr">Quinto slide</span></button>               
+               <button data-slide="4"><span class="show-for-sr">Septimo slide</span></button>
            </nav>
        </div>
     </div>
@@ -123,18 +115,6 @@
     <div class="widget" >
     <h4 class="titulo-widget">Upcoming events</h4>
     <ul class="lista-eventos">
-
-      <li class="evento">
-        <div class="cuerpo-fecha">
-          <div class="fecha">
-            <span class="dia">30</span>
-            <span class="mes">August</span>
-          </div>
-        </div>
-        <div class="cuerpo-evento">
-          <h4><a href="eventos.php">CMS Day</a></h4>
-        </div>
-      </li>
 
 	  <li class="evento">
         <div class="cuerpo-fecha">

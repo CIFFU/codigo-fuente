@@ -106,46 +106,7 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
 </div>
 -->
 
-<div class="row tarjeta bloque-evento">
-  <div class="small-12 medium-8 large-8 column  text-justify ">
-    <h3>CMS Day</h3>
 
-    This one-day journey will give us an overview of the status, expectations and future of the research activities done by the BUAP group and the Compact Muon Solenoide Collaboration at the CERN-LHC.
-Detector instrumentation work of the current system and the latest results on physics analysis will be presented, as well as, the expectations for the Phase II Detector Upgrade.
-This meeting will  include special sessions where Mexican theory groups will interact with experimentalist to discuss about recent limits on the Extended Higgs Sector and their nobel proposals for Higgs signals that could be searched at the LHC.
-
-    <br>
-    <br>
-    <br>
-    <a href="https://indico.cern.ch/event/655545/" target="_blank" class="button float-right">Registration: https://indico.cern.ch/e/CMSdayPuebla</a>
-
-  </div>
-
-  <div class="small-12 medium-4 large-4 column">
-    <div class="row">
-      <div class="small-12 medium-6 large-6 column bloque-lugar">
-        <h3>Place:</h3>
-
-         Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM
-
-      </div>
-
-      <div class="small-12 medium-6 large-6 column bloque-fecha">
-        <h3>Date:</h3>
-        August 30.
-
-      </div>
-
-    </div>
-
-    <div class="row">
-      <div class="small-12 column">
-         <a href="assets\img\CMSdayPoster-001.jpg"><img src="assets\img\CMSdayPoster-001.jpg"></a>
-      </div>
-    </div>
-  </div>
-
-</div>
 
 <div class="row tarjeta bloque-evento">
   <div class="small-12 medium-8 large-8 column  text-justify ">
@@ -160,13 +121,13 @@ This meeting will  include special sessions where Mexican theory groups will int
   <div class="small-12 medium-4 large-4 column">
     <div class="row">
       <div class="small-12 medium-6 large-6 column bloque-lugar">
-        <h3>Lugar:</h3>
+        <h3>Place:</h3>
 
           Universidad Iberoamericana Ciudad de México.
       </div>
 
       <div class="small-12 medium-6 large-6 column bloque-fecha">
-        <h3>Fecha:</h3>
+        <h3>Date:</h3>
         From September 5th to 8th of 2017.
 
       </div>
@@ -185,29 +146,78 @@ This meeting will  include special sessions where Mexican theory groups will int
 
 <div class="row tarjeta bloque-evento">
   <div class="small-12 medium-8 large-8 column  text-justify ">
-    <h3>Cosmic Higgs Connections (CHICO)</h3>
 
-    Una de las principales actividades del CIFFU consiste en la realización del taller “Cosmic Higgs Connections 2017”, el cual se propone sea el inicio de un encuentro emblemático del centro que se realice anualmente. En este taller se propone discutir el progreso más reciente en una de las áreas con mayor tradición en la BUAP, como lo es la física del Higgs.
-Además de cubrir la fenomenología del Higgs en colliders y bajas energías, tanto en el contexto del modelo estándar (SM) como en modelos más allá del SM, se propone discutir la interfase entre el sector de Higgs y la cosmología, por ejemplo, para transiciones de fase, bariogénesis y estabilidad del vacío.
-
-<br>
-<br>
-Esto con el objetivo de facilitar el trabajo de investigación en problemas básicos que jueguen un papel aglutinador de estas disciplinas. Todo esto con el propósito de identificar similitudes, potenciales sinergias, con una mirada a los aspectos fundamentales de la física de partículas y cosmología, principalmente de sus problemas abiertos.
-
-<br>
-<br>
-Para cumplir con este objetivo se propone convocar a expertos en dichos temas de investigación o afines, para que nos presenten pláticas de revisión general del tema o de sus propios avances.
-
-<br>
-<br>
-<h4>Ponentes invitados</h4>
+  <h3>COSMIC HIGGS CONNECTIONS (CHICO 17)</h3>
+ 
+<p>
+One of the activities of our center  during 2017, is the workshop “Cosmic Higgs Connections “,
+which is expected to become one of the main events of CIFFU, and is planned to be held every year. This workshop will attempt to cover recent progress in Higgs physics and related topics, which is a  traditional research area  at BUAP.  Besides covering Higgs phenomenology, both at the Precision and Energy frontiers,  working within the Standard Model and its extensions, it  will also discuss the interfase between Higgs physics and Cosmology. This includes: phase transitions, vacuum stability, baryogenesis, scalar dark matter and inflation, among others.
+</p>
+<p>
+This workshop will serve to identify those reserach topics on fundamental physics, that will serve as an umbrella for  our group, to strenghten the areas we already work on and to start new collaborations on those topics that deserve to be studied.
+</p>
+<p>
+To fulfill  these objectives we plan to invite leading world experts and outstanding local collegues, to  deliver courses, review talks and specialized seminars on Higgs Physics, Cosmology and related ones.
+</p>
+<p>
+For the 2017 CHICO workshop  we have invited the following experts:
+</p>
+ 
 <ol>
-  <li>Dra. Marcela Carena (FERMILAB)</li>
-  <li>Dr. Ernest Ma (UC-Riverside)</li>
-  <li>Dr. Shinya Kanemura (Japan)</li>
-  <li>Dr. W. Hollik (DESY)</li>
+<li>Marcela Carena (FNAL,USA)</li>
+<li>Shinya Kanemura (Osaka, Japan)</li>
+<li>Ernest Ma (UC, Riverside,USA)</li>
+<li>Eduardo Peinado (UNAM, Mexico)</li>
+<li>Abdel Perez-Lorenzana (Cinvestav, Mexico)</li>
+<li>Alex Stuart (UCOL, Mexico)</li>
+<li>W. Hollik (DESY)</li>
+</ol> 
+
+<p>
+Local speakers, postdocs and students will also present their results.
+</p>
+
+<h4>
+Important dates
+</h4>
+<ol>
+<li>September 5th:  Registration open</li>
+<li>September 15th: 1st announcement</li>
+<li>September 25th: 2nd announcement</li>
+<li>September 22th: Registration deadline</li>
 </ol>
-    <br>
+
+<h4>
+Organizing committee
+</h4>
+
+<h5>
+CIFFU-BUAP
+</h5>
+<ul>
+<li>
+L. Díaz Cruz
+</li>
+
+<li>
+O. Félix Beltrán
+</li>
+<li>
+E. Barradas Guevara
+</li>
+<li>
+C. Arellano Celiz
+</li>
+</ul>
+
+
+<h5>
+Registration link:
+</h5>
+<p>
+Peding
+</p>
+
 
   </div>
 
@@ -221,7 +231,7 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
   <div class="small-12 medium-2 large-2 column bloque-fecha">
     <h3>Date:</h3>
 
-    Del 27 al 30 de Septiembre del 2017.
+     27,28 Y 29 DE SEPTIEMBRE DE 2017
   </div>
 
 </div>
@@ -253,6 +263,11 @@ Para cumplir con este objetivo se propone convocar a expertos en dichos temas de
                 <td>The Quantum Universe</td>
                 <td>Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM</td>
                 <td>29 y 30 de Junio</td>
+              </tr>
+			  <tr>
+                <td>CMS Day</td>
+                <td>Auditorio "Joaquín Ancona Albertos" 1FM3, FCFM</td>
+                <td>30 de Agosto</td>
               </tr>
 
 
